@@ -8,7 +8,7 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 ## 🚀 What I'm Building
 
-* 🌐 [**Weather App**](https://github.com/BlankName450/Weather-app-js)  
+* 🌐 [**Weather App**](https://blankname450.github.io/Weather-app-js/)  
   A stylish app that yells the forecast louder than your Egyptian aunt.
   
 * 🧠 [**Quiz App**](https://blankname450.github.io/Quiz-app-js/)  
