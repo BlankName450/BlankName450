@@ -10,12 +10,12 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 * 🌐 [**Weather App**](https://github.com/BlankName450/Weather-app-js)  
   A stylish app that yells the forecast louder than your Egyptian aunt.
+  
+* 🧠 [**Quiz App**](https://blankname450.github.io/Quiz-app-js/)  
+  A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.
 
 * 🎓 [**Mini Search Engine + AI Chatbot**](https://github.com/BlankName450/Mini-Search-Engine-Latest)  
   My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your average chatbot an existential crisis.
-
-* 🧠 [**Quiz App**](https://blankname450.github.io/Quiz-app-js/)  
-  A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.
 
 * 🛍️ **E-commerce sites I built before even finishing uni:**
   * [Sia Gates](https://siagates.com)  
