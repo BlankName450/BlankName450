@@ -8,15 +8,22 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 ## 🚀 What I'm Building
 
-- 🌐 [Weather App](https://github.com/BlankName450/Weather-app-js) — A stylish app that yells the forecast louder than your Egyptian aunt.
-- 🎓 [Mini Search Engine + AI Chatbot](https://github.com/BlankName450/Mini-Search-Engine) — My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your average chatbot an existential crisis.
-- 🛍️ **E-commerce Sites** I built before even finishing uni:
-  - [Sia Gates](https://siagates.com)
-  - [Ethereal M.](https://ethereal-m.company.site)
+* 🌐 [**Weather App**](https://github.com/BlankName450/Weather-app-js)  
+  A stylish app that yells the forecast louder than your Egyptian aunt.
 
-Oh, and I’ve got a few more experiments brewing in the lab. [Check them out.](https://github.com/BlankName450?tab=repositories)
+* 🎓 [**Mini Search Engine + AI Chatbot**](https://github.com/BlankName450/Mini-Search-Engine)  
+  My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your average chatbot an existential crisis.
 
----
+* 🧠 [**Quiz App**](https://blankname450.github.io/Quiz-app-js/)  
+  A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.
+
+* 🛍️ **E-commerce sites I built before even finishing uni:**
+  * [Sia Gates](https://siagates.com)  
+  * [Ethereal M.](https://ethereal-m.company.site)
+
+> Oh, and I’ve got a few more experiments brewing in the lab.  
+> 👉 [Check them out on GitHub.](https://github.com/BlankName450?tab=repositories)
+
 
 ## 🧠 What I Know
 
