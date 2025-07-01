@@ -10,9 +10,19 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 * 🌐 [**Weather App**](https://blankname450.github.io/Weather-app-js/)  
   A stylish app that yells the forecast louder than your Egyptian aunt.
-  
+
 * 🧠 [**Quiz App**](https://blankname450.github.io/Quiz-app-js/)  
   A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.
+
+* 📝 [**Notes App**](https://blankname450.github.io/notes-app-js/)  
+  Because sticky notes aren’t scalable. Create, edit, and delete notes right in your browser — no login, no drama.
+
+* ✅ [**To-Do List**](https://blankname450.github.io/to-do-list-js/)  
+  A to-do list that judges you silently. Add, complete, and delete tasks with smooth UX and local storage.
+
+* 🍽️ [**Recipes App**](https://recipes-app-brainwave.vercel.app/)  
+  Explore recipes from around the world, toggle dark mode, and feel like a MasterChef. Powered by TheMealDB API.  
+  ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/recipes-app)
 
 * 🎓 [**Mini Search Engine + AI Chatbot**](https://github.com/BlankName450/Mini-Search-Engine-Latest)  
   My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your average chatbot an existential crisis.
@@ -24,6 +34,7 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 > Oh, and I’ve got a few more experiments brewing in the lab.  
 > 👉 [Check them out on GitHub.](https://github.com/BlankName450?tab=repositories)
 
+---
 
 ## 🧠 What I Know
 
@@ -87,5 +98,5 @@ And let’s be honest —
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
 
-
 _Thanks for visiting my profile! May your code compile on the first try (but let’s be real, it won’t). 😄_
+
