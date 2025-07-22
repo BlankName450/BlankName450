@@ -130,7 +130,11 @@ And let’s be honest —
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankName450&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankName450&layout=compact&theme=radical)
 </div>
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
+[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
 
-_Thanks for visiting my profile! May your code compile on the first try (but let’s be real, it won’t). 😄_
+<sub>Thanks for visiting my profile! May your code compile on the first try (but let's be real, it won't). 😄</sub>
+
+</div>
