@@ -45,6 +45,7 @@ const mahmoud = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -76,74 +77,25 @@ const mahmoud = {
 
 ## 🚀 What I'm Building
 
-### 🌟 **Featured Projects**
+* 🌐 **[Weather App](https://blankname450.github.io/Weather-app-js/)**  
+  A stylish app that yells the forecast louder than your Egyptian aunt.
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://blankname450.github.io/Weather-app-js/" target="_blank">🌐 Weather App</a></h3>
-        <div align="center">
-          <a href="https://blankname450.github.io/Weather-app-js/" target="_blank">
-            <img src="https://via.placeholder.com/400x200/f59e0b/ffffff?text=Weather+App" />
-          </a>
-          <p><strong>A stylish app that yells the forecast louder than your Egyptian aunt.</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://blankname450.github.io/Quiz-app-js/" target="_blank">🧠 Quiz App</a></h3>
-        <div align="center">
-          <a href="https://blankname450.github.io/Quiz-app-js/" target="_blank">
-            <img src="https://via.placeholder.com/400x200/8b5cf6/ffffff?text=Quiz+App" />
-          </a>
-          <p><strong>A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.</strong></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://blankname450.github.io/notes-app-js/" target="_blank">📝 Notes App</a></h3>
-        <div align="center">
-          <a href="https://blankname450.github.io/notes-app-js/" target="_blank">
-            <img src="https://via.placeholder.com/400x200/10b981/ffffff?text=Notes+App" />
-          </a>
-          <p><strong>Because sticky notes aren't scalable. Create, edit, and delete notes right in your browser — no login, no drama.</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://blankname450.github.io/to-do-list-js/" target="_blank">✅ To-Do List</a></h3>
-        <div align="center">
-          <a href="https://blankname450.github.io/to-do-list-js/" target="_blank">
-            <img src="https://via.placeholder.com/400x200/ef4444/ffffff?text=To-Do+App" />
-          </a>
-          <p><strong>A to-do list that judges you silently. Add, complete, and delete tasks with smooth UX and local storage.</strong></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://recipes-app-brainwave.vercel.app/" target="_blank">🍽️ Recipes App</a></h3>
-        <div align="center">
-          <a href="https://recipes-app-brainwave.vercel.app/" target="_blank">
-            <img src="https://via.placeholder.com/400x200/f97316/ffffff?text=Recipes+App" />
-          </a>
-          <p><strong>Explore recipes from around the world, toggle dark mode, and feel like a MasterChef. Powered by TheMealDB API.</strong></p>
-          <a href="https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/recipes-app">➤ View Source</a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://ecommerce-brainwave-matrix-intern.vercel.app" target="_blank">🛒 E-commerce App</a></h3>
-        <div align="center">
-          <a href="https://ecommerce-brainwave-matrix-intern.vercel.app" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0891b2/ffffff?text=E-commerce+Platform" />
-          </a>
-          <p><strong>A complete shopping platform with cart, wishlist, search, filters, user login, reviews, and admin panel — all in vanilla JS using DummyJSON API.</strong></p>
-          <a href="https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/E-commerce-app">➤ View Source</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+* 🧠 **[Quiz App](https://blankname450.github.io/Quiz-app-js/)**  
+  A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.
+
+* 📝 **[Notes App](https://blankname450.github.io/notes-app-js/)**  
+  Because sticky notes aren't scalable. Create, edit, and delete notes right in your browser — no login, no drama.
+
+* ✅ **[To-Do List](https://blankname450.github.io/to-do-list-js/)**  
+  A to-do list that judges you silently. Add, complete, and delete tasks with smooth UX and local storage.
+
+* 🍽️ **[Recipes App](https://recipes-app-brainwave.vercel.app/)**  
+  Explore recipes from around the world, toggle dark mode, and feel like a MasterChef. Powered by TheMealDB API.  
+  ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/recipes-app)
+
+* 🛒 **[E-commerce App](https://ecommerce-brainwave-matrix-intern.vercel.app)**  
+  A complete shopping platform with cart, wishlist, search, filters, user login, reviews, and admin panel — all in vanilla JS using DummyJSON API.  
+  ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/E-commerce-app)
 
 ### 🎓 **Graduation Project**
 **[Mini Search Engine + AI Chatbot](https://github.com/BlankName450/Mini-Search-Engine-Latest)**  
@@ -173,6 +125,21 @@ My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your av
 💻 **Made a library management system in C# and SQL.** And yes, it works. On my machine.
 
 🤖 **Used AI tools to speed up development**... mostly so I could take longer breaks and pretend I'm still "in the zone."
+
+</div>
+
+---
+
+## 😎 Me, As a Developer
+
+<div align="center">
+
+Sometimes CSS just... **does things**.  
+*When debugging for 4 hours and it magically works*  
+*Pushing to production with confidence*  
+*Let's be honest — Ctrl+C, Ctrl+V from Stack Overflow is basically pair programming, right?*
+
+![It works on my machine](https://img.shields.io/badge/Status-It%20works%20on%20my%20machine-success?style=for-the-badge)
 
 </div>
 
