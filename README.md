@@ -119,8 +119,8 @@ And let’s be honest —
 
 ## 📫 Let’s Talk
 
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-samy-843855243) — Connect with me, I don’t bite. Much.
-- [Email](mailto:mahmoudsamy450@gmail.com) — Available for freelance, collabs, or just to nerd out.
+- ![LinkedIn](https://www.linkedin.com/in/mahmoud-samy-843855243) — Connect with me, I don’t bite. Much.
+- ![Email](mailto:mahmoudsamy450@gmail.com) — Available for freelance, collabs, or just to nerd out.
 
 
 
