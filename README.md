@@ -40,22 +40,57 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 ---
 
-## 🧠 What I Know
+## 🛠️ What I Know
 
-> *“He’s got range.” — Probably my IDE.*
+> "He's got range." — Probably my IDE.
+> 
 
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Flexbox (my best friend when CSS hates me)
-- **Backend-ish**: SQL, SQLite, MySQL (basic stuff, but I know what an index is)
-- **Tools**: WordPress, Ecwid, .NET (Windows Forms), and AI tools to save me from typing for 3 hours
-- **Languages**: Arabic (native), English (good enough to debug in it)
-- **Soft Skills**: Problem-solving, critical thinking, communication — and surviving group projects without rage quitting.
+<div align="center">
+
+### Frontend & Core
+
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+[Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+
+[MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+[SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+
+[WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+[Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+[Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+**Languages:** Arabic (native), English (good enough to debug in it)
+
+**Soft Skills:** Problem-solving, critical thinking, communication — and surviving group projects without rage quitting.
 
 ---
 
 ## 🧪 Currently Learning
 
-- React.js (because apparently, it's illegal to be a frontend dev without it)
-- TypeScript (because I like my bugs with type errors now)
+<div align="center">
+
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+- **React.js** (because apparently, it's illegal to be a frontend dev without it)
+- **TypeScript** (because I like my bugs with type errors now)
 
 ---
 
