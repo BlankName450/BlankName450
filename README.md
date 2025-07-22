@@ -139,7 +139,7 @@ const mahmoud = {
 
 ## 🎯 Current Focus
 
-typescript
+```typescript
 interface CurrentGoals {
   learning: string[];
   building: string[];
@@ -151,7 +151,7 @@ const goals2025: CurrentGoals = {
   building: ["SaaS Applications", "Open Source Tools", "Portfolio Website v3"],
   exploring: ["Web3 Technologies", "Mobile Development", "AI Integration"]
 };
-
+```
 
 ---
 
