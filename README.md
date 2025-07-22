@@ -83,7 +83,7 @@ const mahmoud = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌐 Weather App</h3>
+        <h3 align="center"><a href="https://blankname450.github.io/Weather-app-js/" target="_blank">🌐 Weather App</a></h3>
         <div align="center">
           <a href="https://blankname450.github.io/Weather-app-js/" target="_blank">
             <img src="https://via.placeholder.com/400x200/f59e0b/ffffff?text=Weather+App" />
@@ -92,7 +92,7 @@ const mahmoud = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🧠 Quiz App</h3>
+        <h3 align="center"><a href="https://blankname450.github.io/Quiz-app-js/" target="_blank">🧠 Quiz App</a></h3>
         <div align="center">
           <a href="https://blankname450.github.io/Quiz-app-js/" target="_blank">
             <img src="https://via.placeholder.com/400x200/8b5cf6/ffffff?text=Quiz+App" />
@@ -103,7 +103,7 @@ const mahmoud = {
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📝 Notes App</h3>
+        <h3 align="center"><a href="https://blankname450.github.io/notes-app-js/" target="_blank">📝 Notes App</a></h3>
         <div align="center">
           <a href="https://blankname450.github.io/notes-app-js/" target="_blank">
             <img src="https://via.placeholder.com/400x200/10b981/ffffff?text=Notes+App" />
@@ -112,7 +112,7 @@ const mahmoud = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">✅ To-Do List</h3>
+        <h3 align="center"><a href="https://blankname450.github.io/to-do-list-js/" target="_blank">✅ To-Do List</a></h3>
         <div align="center">
           <a href="https://blankname450.github.io/to-do-list-js/" target="_blank">
             <img src="https://via.placeholder.com/400x200/ef4444/ffffff?text=To-Do+App" />
@@ -123,7 +123,7 @@ const mahmoud = {
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🍽️ Recipes App</h3>
+        <h3 align="center"><a href="https://recipes-app-brainwave.vercel.app/" target="_blank">🍽️ Recipes App</a></h3>
         <div align="center">
           <a href="https://recipes-app-brainwave.vercel.app/" target="_blank">
             <img src="https://via.placeholder.com/400x200/f97316/ffffff?text=Recipes+App" />
@@ -133,7 +133,7 @@ const mahmoud = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🛒 E-commerce App</h3>
+        <h3 align="center"><a href="https://ecommerce-brainwave-matrix-intern.vercel.app" target="_blank">🛒 E-commerce App</a></h3>
         <div align="center">
           <a href="https://ecommerce-brainwave-matrix-intern.vercel.app" target="_blank">
             <img src="https://via.placeholder.com/400x200/0891b2/ffffff?text=E-commerce+Platform" />
