@@ -179,21 +179,6 @@ My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your av
 
 ---
 
-## 😎 Me, As a Developer
-
-<div align="center">
-
-Sometimes CSS just... **does things**.  
-*When debugging for 4 hours and it magically works*  
-*Pushing to production with confidence*  
-*Let's be honest — Ctrl+C, Ctrl+V from Stack Overflow is basically pair programming, right?*
-
-![It works on my machine](https://img.shields.io/badge/Status-It%20works%20on%20my%20machine-success?style=for-the-badge)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
