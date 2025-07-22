@@ -133,7 +133,7 @@ And let’s be honest —
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
 
 <sub>Thanks for visiting my profile! May your code compile on the first try (but let's be real, it won't). 😄</sub>
 
