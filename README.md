@@ -2,7 +2,7 @@
 
 🧑‍💻 Front-End Developer | 💡 Code Whisperer | 💻 Graduate Who Writes More Than Just "Hello World" | 💻 JavaScript Enthusiast | 🚀 Open Source Contributor
 
-Welcome to my corner of GitHub, where I break things (on purpose), fix them (accidentally), and somehow build working apps in the process. I'm a Computer Science graduate with a love for clean UI, messy `console.log()`s.
+Welcome to my corner of GitHub, where I break things (on purpose), fix them (accidentally), and somehow build working apps in the process. I'm a Computer Science graduate with a love for clean UI, messy `console.log()`s, and smooth UX.
 
 ---
 
@@ -24,10 +24,14 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
   Explore recipes from around the world, toggle dark mode, and feel like a MasterChef. Powered by TheMealDB API.  
   ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/recipes-app)
 
+* 🛒 [**E-commerce App**](https://ecommerce-brainwave-matrix-intern.vercel.app)  
+  A complete shopping platform with cart, wishlist, search, filters, user login, reviews, and admin panel — all in vanilla JS using DummyJSON API.  
+  ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/E-commerce-app)
+
 * 🎓 [**Mini Search Engine + AI Chatbot**](https://github.com/BlankName450/Mini-Search-Engine-Latest)  
   My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your average chatbot an existential crisis.
 
-* 🛍️ **E-commerce sites I built :**
+* 🛍️ **E-commerce Sites I Built:**
   * [Sia Gates](https://siagates.com)  
   * [Ethereal M.](https://ethereal-m.company.site)
 
@@ -99,4 +103,3 @@ And let’s be honest —
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
 
 _Thanks for visiting my profile! May your code compile on the first try (but let’s be real, it won’t). 😄_
-
