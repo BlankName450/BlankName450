@@ -87,7 +87,8 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 - Made a library management system in C# and SQL. And yes, it works. On my machine.  
 - Used AI tools to speed up development… mostly so I could take longer breaks and pretend I’m still “in the zone.”
 <div align="center">
-![they work on my machine](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+  ![they work on my machine](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 </div>
 ---
 
@@ -95,19 +96,23 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 Sometimes CSS just… **does things**.
 <div align="center">
+  
 ![CSS chaos](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
 </div>
 When I solve a bug after 4 hours of confusion:  
 <div align="center">
-![Bug fixed magically](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+  ![Bug fixed magically](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 </div>
 Pushing to production like:  
 <div align="center">
-![Deploy panic](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+  ![Deploy panic](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 </div>
 And let’s be honest —  
 `Ctrl+C`, `Ctrl+V` from Stack Overflow is basically pair programming, right?  
 <div align="center">
+  
   ![Stack Overflow Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 </div>
 ---
