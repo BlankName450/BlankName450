@@ -85,15 +85,15 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 - Built 2 revenue-generating e-commerce websites while still in uni. If that’s not hustle, I don’t know what is.
 - Created a search engine that chats back — because why just search when you can argue with your own code?
 - Made a library management system in C# and SQL. And yes, it works. On my machine.  
-  ![It works on my machine](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 - Used AI tools to speed up development… mostly so I could take longer breaks and pretend I’m still “in the zone.”
+
+![they work on my machine](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ---
 
 ## 😎 Me, As a Developer (With GIF Commentary)
 
-Sometimes CSS just… **does things**.  
-![CSS chaos](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
+Sometimes CSS just… **does things**.   ![CSS chaos](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
 
 When I solve a bug after 4 hours of confusion:  
 ![Bug fixed magically](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
