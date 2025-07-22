@@ -86,26 +86,30 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 - Created a search engine that chats back — because why just search when you can argue with your own code?
 - Made a library management system in C# and SQL. And yes, it works. On my machine.  
 - Used AI tools to speed up development… mostly so I could take longer breaks and pretend I’m still “in the zone.”
-
+<div align="center">
 ![they work on my machine](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
+</div>
 ---
 
 ## 😎 Me, As a Developer (With GIF Commentary)
 
-Sometimes CSS just… **does things**.   
+Sometimes CSS just… **does things**.
+<div align="center">
 ![CSS chaos](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
-
+</div>
 When I solve a bug after 4 hours of confusion:  
+<div align="center">
 ![Bug fixed magically](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
+</div>
 Pushing to production like:  
+<div align="center">
 ![Deploy panic](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
+</div>
 And let’s be honest —  
 `Ctrl+C`, `Ctrl+V` from Stack Overflow is basically pair programming, right?  
-![Stack Overflow Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
+<div align="center">
+  ![Stack Overflow Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+</div>
 ---
 
 ## 📫 Let’s Talk
