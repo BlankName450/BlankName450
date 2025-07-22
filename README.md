@@ -45,7 +45,6 @@ const mahmoud = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -109,37 +108,6 @@ My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your av
   
 > Oh, and I've got a few more experiments brewing in the lab.  
 > 👉 **[Check them out on GitHub.](https://github.com/BlankName450?tab=repositories)**
-
-</div>
-
----
-
-## 🏆 Fun Facts & Highlights
-
-<div align="center">
-  
-✨ **Built 2 revenue-generating e-commerce websites while still in uni.** If that's not hustle, I don't know what is.
-
-🔍 **Created a search engine that chats back** — because why just search when you can argue with your own code?
-
-💻 **Made a library management system in C# and SQL.** And yes, it works. On my machine.
-
-🤖 **Used AI tools to speed up development**... mostly so I could take longer breaks and pretend I'm still "in the zone."
-
-</div>
-
----
-
-## 😎 Me, As a Developer
-
-<div align="center">
-
-Sometimes CSS just... **does things**.  
-*When debugging for 4 hours and it magically works*  
-*Pushing to production with confidence*  
-*Let's be honest — Ctrl+C, Ctrl+V from Stack Overflow is basically pair programming, right?*
-
-![It works on my machine](https://img.shields.io/badge/Status-It%20works%20on%20my%20machine-success?style=for-the-badge)
 
 </div>
 
