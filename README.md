@@ -93,7 +93,8 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 ## 😎 Me, As a Developer (With GIF Commentary)
 
-Sometimes CSS just… **does things**.   ![CSS chaos](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
+Sometimes CSS just… **does things**.   
+![CSS chaos](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
 
 When I solve a bug after 4 hours of confusion:  
 ![Bug fixed magically](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
