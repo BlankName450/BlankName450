@@ -90,7 +90,7 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
   ![they work on my machine](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 </div>
----
+
 
 ## 😎 Me, As a Developer (With GIF Commentary)
 
