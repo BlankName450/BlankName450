@@ -125,10 +125,10 @@ And let’s be honest —
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankName450&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankName450&layout=compact&theme=radical)
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankName450&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankName450&layout=compact&theme=radical)
+</div>
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankName450.BlankName450)
