@@ -115,21 +115,21 @@ And let’s be honest —
   
   ![Stack Overflow Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 </div>
----
+
 
 ## 📫 Let’s Talk
 
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-samy-843855243) — Connect with me, I don’t bite. Much.
 - [Email](mailto:mahmoudsamy450@gmail.com) — Available for freelance, collabs, or just to nerd out.
 
----
+
 
 ## 📊 GitHub Stats
 <div align="center">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlankName450&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankName450&layout=compact&theme=radical)
 </div>
----
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
