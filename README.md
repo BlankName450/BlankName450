@@ -1,4 +1,7 @@
-# Hi, I'm Mahmoud Samy 👋
+# Hi, I'm Mahmoud Samy 👋  
+<a href="https://blankname450.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 My Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+</a>
 
 🧑‍💻 Front-End Developer | 💡 Code Whisperer | 💻 Graduate Who Writes More Than Just "Hello World" | 💻 JavaScript Enthusiast | 🚀 Open Source Contributor
 
