@@ -1,4 +1,4 @@
-# Hi, I'm Mahmoud Samy 👋  
+# Hi, I'm Mahmoud Abustate 👋  
 <a href="https://blankname450.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 My Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
 </a>
