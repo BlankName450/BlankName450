@@ -11,23 +11,23 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 
 ## 🚀 What I'm Building
 
-* 🌐 [**Weather App**](https://blankname450.github.io/Weather-app-js/)  
+* 🌐 [**Weather Web App**](https://blankname450.github.io/Weather-app-js/)  
   A stylish app that yells the forecast louder than your Egyptian aunt.
 
-* 🧠 [**Quiz App**](https://blankname450.github.io/Quiz-app-js/)  
+* 🧠 [**Quiz Web App**](https://blankname450.github.io/Quiz-app-js/)  
   A sleek trivia game that tests your brain and your patience — now with score tracking and zero mercy.
 
-* 📝 [**Notes App**](https://blankname450.github.io/notes-app-js/)  
+* 📝 [**Notes Web App**](https://blankname450.github.io/notes-app-js/)  
   Because sticky notes aren’t scalable. Create, edit, and delete notes right in your browser — no login, no drama.
 
 * ✅ [**To-Do List**](https://blankname450.github.io/to-do-list-js/)  
   A to-do list that judges you silently. Add, complete, and delete tasks with smooth UX and local storage.
 
-* 🍽️ [**Recipes App**](https://recipes-app-brainwave.vercel.app/)  
+* 🍽️ [**Recipes Website**](https://recipes-app-brainwave.vercel.app/) -ES6 Vanilla JavaScript
   Explore recipes from around the world, toggle dark mode, and feel like a MasterChef. Powered by TheMealDB API.  
   ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/recipes-app)
 
-* 🛒 [**E-commerce App**](https://ecommerce-brainwave-matrix-intern.vercel.app)  
+* 🛒 [**E-commerce Website**](https://ecommerce-brainwave-matrix-intern.vercel.app) - ES6 Vanilla JavaScript 
   A complete shopping platform with cart, wishlist, search, filters, user login, reviews, and admin panel — all in vanilla JS using DummyJSON API.  
   ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/E-commerce-app)
 
