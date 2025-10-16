@@ -34,9 +34,9 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 * 🎓 [**Mini Search Engine + AI Chatbot**](https://github.com/BlankName450/Mini-Search-Engine-Latest)  
   My graduation project. It scrapes Wikipedia, chats with GPT-3, and gives your average chatbot an existential crisis.
 
-* 🛍️ **E-commerce Sites I Built:**
-  * [Sia Gates](https://siagates.com)  
-  * [Ethereal M.](https://ethereal-m.company.site)
+* 🛍️ **E-commerce Low Code Websites I Built:**
+  * [Sia Gates](https://siagates.com) - Wordpress
+  * [Ethereal M.](https://ethereal-m.company.site) - Ecwid
 
 > Oh, and I’ve got a few more experiments brewing in the lab.  
 > 👉 [Check them out on GitHub.](https://github.com/BlankName450?tab=repositories)
