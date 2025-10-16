@@ -23,12 +23,12 @@ Welcome to my corner of GitHub, where I break things (on purpose), fix them (acc
 * ✅ [**To-Do List**](https://blankname450.github.io/to-do-list-js/)  
   A to-do list that judges you silently. Add, complete, and delete tasks with smooth UX and local storage.
 
-* 🍽️ [**Recipes Website**](https://recipes-app-brainwave.vercel.app/)-ES6 Vanilla JavaScript 
+* 🍽️ [**Recipes Website**](https://recipes-app-brainwave.vercel.app/) -ES6 Vanilla JavaScript 
 
   Explore recipes from around the world, toggle dark mode, and feel like a MasterChef. Powered by TheMealDB API.  
   ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/recipes-app)
 
-* 🛒 [**E-commerce Website**](https://ecommerce-brainwave-matrix-intern.vercel.app)-ES6 Vanilla JavaScript 
+* 🛒 [**E-commerce Website**](https://ecommerce-brainwave-matrix-intern.vercel.app) -ES6 Vanilla JavaScript 
 
   A complete shopping platform with cart, wishlist, search, filters, user login, reviews, and admin panel — all in vanilla JS using DummyJSON API.  
   ➤ [View Source](https://github.com/BlankName450/Brainwave_Matrix_Intern/tree/main/E-commerce-app)
